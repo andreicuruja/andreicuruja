@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=curujatranzante&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=50b2df&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=curujatranzante&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=curujatranzante&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=curujatranzante&redirect=true)
