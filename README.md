@@ -18,5 +18,6 @@ Here are some ideas to get you started:
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=curujatranzante&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=1ed760&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=curujatranzante&redirect=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreicuruja&size_weight=0.5&count_weight=0.5)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreicuruja&layout=compact)
+  
 </div>
