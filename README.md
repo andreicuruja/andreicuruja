@@ -10,7 +10,7 @@
   
 </div>
 Meu nome é Andrei Buss, tenho 23 anos e sou um desenvolvedor web,
-Formado no Curso Técnico em Desenvolvimento de Sistemas pelo Instituto Federal Sul-Rio-Grandense – Câmpus Visconde da Graça em 2025.
+formado no Curso Técnico em Desenvolvimento de Sistemas pelo Instituto Federal Sul-Rio-Grandense – Câmpus Visconde da Graça em 2025.
 
 <br><br>
 <br>
