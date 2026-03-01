@@ -1,5 +1,5 @@
 ## Buenas, tudo certo? 👋
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=OtavioDSP&repo=auto-chase&theme=transparent)](https://github.com/OtavioDSP/auto-chase)
 <!--
 **andreicuruja/andreicuruja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
