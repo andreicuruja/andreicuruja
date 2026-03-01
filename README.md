@@ -1,10 +1,8 @@
 ## Buenas, tudo certo? 👋
-### 🎓 Projetos de Destaque
 
-| Projeto | Descrição | Tech Stack |
-| --- | --- | --- |
-| [**Auto-Chase**](https://github.com/OtavioDSP/auto-chase) | Repositório do meu Trabalho de Conclusão de Curso (TCC). | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=OtavioDSP&repo=auto-chase&theme=transparent)](https://github.com/OtavioDSP/auto-chase)
+Meu nome é Andrei Buss, tenho 23 anos e sou um desenvolvedor web, formado no Curso Técnico em Desenvolvimento de Sistemas pelo Instituto Federal Sul-Rio-Grandense – Câmpus Visconde da Graça em 2025.
+| [**Auto-Chase**](https://github.com/OtavioDSP/auto-chase) | Repositório do meu Trabalho de Conclusão de Curso (TCC). | ![Php](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+
 <!--
 **andreicuruja/andreicuruja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
