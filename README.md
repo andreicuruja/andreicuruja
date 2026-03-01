@@ -8,7 +8,7 @@
 ![Andrei stats](https://github-readme-stats.vercel.app/api?username=andreicuruja&show_icons=true&theme=github_dark)-->
 
   
-</div><br><br>
+</div>
 **Meu nome é Andrei Buss**, tenho 23 anos e sou um desenvolvedor web,
 formado no Curso Técnico em Desenvolvimento de Sistemas pelo Instituto Federal Sul-Rio-Grandense – Câmpus Visconde da Graça em 2025.
 
