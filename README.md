@@ -1,7 +1,8 @@
 ## Buenas, tudo certo? 👋
 
 Meu nome é Andrei Buss, tenho 23 anos e sou um desenvolvedor web, formado no Curso Técnico em Desenvolvimento de Sistemas pelo Instituto Federal Sul-Rio-Grandense – Câmpus Visconde da Graça em 2025.
-| [**Auto-Chase**](https://github.com/OtavioDSP/auto-chase) | Repositório do meu Trabalho de Conclusão de Curso (TCC). | ![Php](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+
+| [**Auto-Chase**](https://github.com/OtavioDSP/auto-chase) | Repositório do meu Trabalho de Conclusão de Curso (TCC). | [![Php](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://camo.githubusercontent.com/276c47c146f2dcdf442bdf176b4aa7cf990aaf7f314ce761300f448e090c4c84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)  |
 
 <!--
 **andreicuruja/andreicuruja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
