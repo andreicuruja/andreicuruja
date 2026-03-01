@@ -12,9 +12,11 @@
 Meu nome é Andrei Buss, tenho 23 anos e sou um desenvolvedor web,
 Formado no Curso Técnico em Desenvolvimento de Sistemas pelo Instituto Federal Sul-Rio-Grandense – Câmpus Visconde da Graça em 2025.
 
+<br>
+
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
-| [**Auto-Chase**](https://github.com/OtavioDSP/auto-chase) <br> <img src="https://i.ibb.co/xt0RQNnj/ac-wb-911-white-footer.png" width="200"> | Repositório do meu Trabalho de Conclusão de Curso (TCC). | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) |
+| <div align="center">[**Auto-Chase**](https://github.com/OtavioDSP/auto-chase)</div><br> <img src="https://i.ibb.co/xt0RQNnj/ac-wb-911-white-footer.png" width="200"> | Repositório do meu Trabalho de Conclusão de Curso (TCC). | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) |
 <!--
 **andreicuruja/andreicuruja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
