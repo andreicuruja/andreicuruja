@@ -1,8 +1,11 @@
 ## Buenas, tudo certo? 👋
 
-Meu nome é Andrei Buss, tenho 23 anos e sou um desenvolvedor web, formado no Curso Técnico em Desenvolvimento de Sistemas pelo Instituto Federal Sul-Rio-Grandense – Câmpus Visconde da Graça em 2025.
+Meu nome é Andrei Buss, tenho 23 anos e sou um desenvolvedor web,
+Formado no Curso Técnico em Desenvolvimento de Sistemas pelo Instituto Federal Sul-Rio-Grandense – Câmpus Visconde da Graça em 2025.
 
-| [**Auto-Chase**](https://github.com/OtavioDSP/auto-chase) | Repositório do meu Trabalho de Conclusão de Curso (TCC). | [![Php](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://camo.githubusercontent.com/276c47c146f2dcdf442bdf176b4aa7cf990aaf7f314ce761300f448e090c4c84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)  |
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [**Auto-Chase**](https://github.com/OtavioDSP/auto-chase) | Repositório do meu Trabalho de Conclusão de Curso (TCC). | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) |
 
 <!--
 **andreicuruja/andreicuruja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
