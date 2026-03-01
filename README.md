@@ -17,7 +17,7 @@ formado no Curso Técnico em Desenvolvimento de Sistemas pelo Instituto Federal 
   <p>Aqui um pouco do que eu já fiz</p>
   <h1>Portfólio</h1>
 </div>
-<br><br>
+
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
